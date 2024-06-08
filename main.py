@@ -12,7 +12,7 @@ from forms import LoginForm, RegisterForm
 # конфигурация
 DATABASE = '/tmp/hac_znanie.db'
 DEBUG = True
-SECRET_KEY = '1d18ff72159315694f50aada02d0cea9d5c4957f'
+SECRET_KEY = 'Вставте свой секретный ключ'
 MAX_CONTENT_LENGTH = 1024 * 1024
 USERNAME = 'admin'
 PASSWORD = '123'
